@@ -1,0 +1,1 @@
+简要介绍光度函数并使用 MLE 方法对 6dFGS 样本进行拟合。  详见luminosity_function.pdf
